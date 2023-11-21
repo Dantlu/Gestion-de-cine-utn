@@ -1,0 +1,580 @@
+# depslib dependency file v1.0
+1698242318 source:c:\users\pc\documents\github\gestioncine-utn\gestioncine\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	"subMenuPeliculas.h"
+	"subMenuClientes.h"
+	"clsArchivo.h"
+	"clsPeliculas.h"
+	"clsCliente.h"
+
+1698243651 c:\users\pc\documents\github\gestioncine-utn\gestioncine\submenupeliculas.h
+	"clsPeliculas.h"
+
+1698242063 c:\users\pc\documents\github\gestioncine-utn\gestioncine\clspeliculas.h
+	<iostream>
+	<cstring>
+	"funcionesGlobales.h"
+
+1698197870 c:\users\pc\documents\github\gestioncine-utn\gestioncine\funcionesglobales.h
+	<ctime>
+
+1698242292 c:\users\pc\documents\github\gestioncine-utn\gestioncine\submenuclientes.h
+	"clsCliente.h"
+
+1698242063 c:\users\pc\documents\github\gestioncine-utn\gestioncine\clscliente.h
+
+1698242339 c:\users\pc\documents\github\gestioncine-utn\gestioncine\clsarchivo.h
+	<iostream>
+	<cstring>
+	"clsPeliculas.h"
+	"clsCliente.h"
+
+1698244176 source:c:\users\dante luongo\downloads\gestioncine-utn-main\gestioncine-utn-main\gestioncine\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	"subMenuPeliculas.h"
+	"subMenuClientes.h"
+	"clsArchivo.h"
+	"clsPeliculas.h"
+	"clsCliente.h"
+
+1698321749 c:\users\dante luongo\downloads\gestioncine-utn-main\gestioncine-utn-main\gestioncine\submenupeliculas.h
+	"clsPeliculas.h"
+
+1698321860 c:\users\dante luongo\downloads\gestioncine-utn-main\gestioncine-utn-main\gestioncine\clspeliculas.h
+	<iostream>
+	<cstring>
+	"funcionesGlobales.h"
+
+1698244176 c:\users\dante luongo\downloads\gestioncine-utn-main\gestioncine-utn-main\gestioncine\funcionesglobales.h
+	<ctime>
+
+1698321763 c:\users\dante luongo\downloads\gestioncine-utn-main\gestioncine-utn-main\gestioncine\submenuclientes.h
+	"clsCliente.h"
+
+1698321632 c:\users\dante luongo\downloads\gestioncine-utn-main\gestioncine-utn-main\gestioncine\clscliente.h
+
+1698244176 c:\users\dante luongo\downloads\gestioncine-utn-main\gestioncine-utn-main\gestioncine\clsarchivo.h
+	<iostream>
+	<cstring>
+	"clsPeliculas.h"
+	"clsCliente.h"
+
+1698327138 source:c:\users\pc\desktop\gestion-cine-utn-master\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	"subMenuPeliculas.h"
+	"subMenuClientes.h"
+	"subMenuAlimentos.h"
+	"clsArchivo.h"
+	"clsPeliculas.h"
+	"clsCliente.h"
+	"clsAlimentos.h"
+	"clsVentas.h"
+
+1698326316 c:\users\pc\desktop\gestion-cine-utn-master\submenupeliculas.h
+	"clsPeliculas.h"
+
+1698326291 c:\users\pc\desktop\gestion-cine-utn-master\clspeliculas.h
+	<iostream>
+	<cstring>
+	"funcionesGlobales.h"
+
+1698322852 c:\users\pc\desktop\gestion-cine-utn-master\funcionesglobales.h
+	<ctime>
+
+1698322852 c:\users\pc\desktop\gestion-cine-utn-master\submenuclientes.h
+	"clsCliente.h"
+
+1698322852 c:\users\pc\desktop\gestion-cine-utn-master\clscliente.h
+
+1698322852 c:\users\pc\desktop\gestion-cine-utn-master\clsarchivo.h
+	<iostream>
+	<cstring>
+	"clsPeliculas.h"
+	"clsCliente.h"
+
+1698326056 c:\users\pc\desktop\gestion-cine-utn-master\submenualimentos.h
+	"clsAlimentos.h"
+
+1698326255 c:\users\pc\desktop\gestion-cine-utn-master\clsalimentos.h
+	<iostream>
+	<cstring>
+	"funcionesGlobales.h"
+
+1698328076 c:\users\pc\desktop\gestion-cine-utn-master\clsventas.h
+	<iostream>
+	<cstring>
+	"funcionesGlobales.h"
+
+1698792333 source:c:\users\pc\desktop\gestion-cine-utn\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+
+1698802734 c:\users\pc\desktop\gestion-cine-utn\submenupeliculas.h
+	"clsPeliculas.h"
+
+1698635480 c:\users\pc\desktop\gestion-cine-utn\clspeliculas.h
+	<iostream>
+	<cstring>
+	"funcionesGlobales.h"
+
+1698792333 c:\users\pc\desktop\gestion-cine-utn\funcionesglobales.h
+	<ctime>
+
+1698802734 c:\users\pc\desktop\gestion-cine-utn\submenuclientes.h
+	"clsCliente.h"
+
+1698322852 c:\users\pc\desktop\gestion-cine-utn\clscliente.h
+
+1698850408 c:\users\pc\desktop\gestion-cine-utn\submenualimentos.h
+	"clsAlimentos.h"
+
+1698850382 c:\users\pc\desktop\gestion-cine-utn\clsalimentos.h
+	<iostream>
+	<cstring>
+	"funcionesGlobales.h"
+
+1698322852 c:\users\pc\desktop\gestion-cine-utn\clsarchivo.h
+	<iostream>
+	<cstring>
+	"clsPeliculas.h"
+	"clsCliente.h"
+
+1698791628 c:\users\pc\desktop\gestion-cine-utn\clsventas.h
+	<iostream>
+	<cstring>
+	"funcionesGlobales.h"
+	"clsDetalleventas.h"
+
+1698802734 c:\users\pc\desktop\gestion-cine-utn\submenuventas.h
+	"clsVentas.h"
+
+1698790205 c:\users\pc\desktop\gestion-cine-utn\clsdetalleventas.h
+
+1698849711 source:c:\users\pc\desktop\gestion-cine-utn\menu.cpp
+	<iostream>
+	<ctime>
+	"rlutil.h"
+	"subMenuPeliculas.h"
+	"subMenuClientes.h"
+	"subMenuAlimentos.h"
+	"subMenuVentas.h"
+	"clsArchivo.h"
+	"clsPeliculas.h"
+	"clsCliente.h"
+	"clsAlimentos.h"
+	"clsVentas.h"
+
+1698850371 c:\users\pc\desktop\gestion-cine-utn\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1698928620 source:c:\users\pc\desktop\gestion-cine\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+
+1699529257 source:c:\users\pc\desktop\gestion-cine\menu.cpp
+	<iostream>
+	<ctime>
+	"rlutil.h"
+	"subMenuPeliculas.h"
+	"subMenuClientes.h"
+	"subMenuAlimentos.h"
+	"subMenuVentas.h"
+	"clsPeliculas.h"
+	"clsCliente.h"
+	"clsAlimentos.h"
+	"clsVentas.h"
+	"subMenuConfiguracion.h"
+	"Reportes.h"
+	"funcionesGlobales.h"
+
+1698850371 c:\users\pc\desktop\gestion-cine\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1699535961 c:\users\pc\desktop\gestion-cine\submenupeliculas.h
+	"clsPeliculas.h"
+
+1699537166 c:\users\pc\desktop\gestion-cine\clspeliculas.h
+	<iostream>
+	<cstring>
+	"funcionesGlobales.h"
+
+1699279052 c:\users\pc\desktop\gestion-cine\funcionesglobales.h
+	<ctime>
+
+1699536013 c:\users\pc\desktop\gestion-cine\submenuclientes.h
+	"clsCliente.h"
+
+1699538133 c:\users\pc\desktop\gestion-cine\clscliente.h
+
+1699541545 c:\users\pc\desktop\gestion-cine\submenualimentos.h
+	"clsAlimentos.h"
+
+1699541580 c:\users\pc\desktop\gestion-cine\clsalimentos.h
+	<iostream>
+	<cstring>
+	"funcionesGlobales.h"
+
+1699499497 c:\users\pc\desktop\gestion-cine\submenuventas.h
+	"clsVentas.h"
+	"Reportes.h"
+
+1699537674 c:\users\pc\desktop\gestion-cine\clsventas.h
+	<iostream>
+	<cstring>
+	"funcionesGlobales.h"
+	"clsDetalleVentas.h"
+	"subMenuClientes.h"
+	"clsCliente.h"
+
+1699499234 c:\users\pc\desktop\gestion-cine\clsdetalleventas.h
+
+1698928620 source:d:\laboratorio 2\31.10\1.11\gestion-cine\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+
+1698947984 source:d:\laboratorio 2\31.10\1.11\gestion-cine\menu.cpp
+	<iostream>
+	<ctime>
+	"rlutil.h"
+	"subMenuPeliculas.h"
+	"subMenuClientes.h"
+	"subMenuAlimentos.h"
+	"subMenuVentas.h"
+	"clsPeliculas.h"
+	"clsCliente.h"
+	"clsAlimentos.h"
+	"clsVentas.h"
+	"subMenuConfiguracion.h"
+	"funcionesGlobales.h"
+
+1698850371 d:\laboratorio 2\31.10\1.11\gestion-cine\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1698802734 d:\laboratorio 2\31.10\1.11\gestion-cine\submenupeliculas.h
+	"clsPeliculas.h"
+
+1698954387 d:\laboratorio 2\31.10\1.11\gestion-cine\clspeliculas.h
+	<iostream>
+	<cstring>
+	"funcionesGlobales.h"
+
+1698947630 d:\laboratorio 2\31.10\1.11\gestion-cine\funcionesglobales.h
+	<ctime>
+
+1698802734 d:\laboratorio 2\31.10\1.11\gestion-cine\submenuclientes.h
+	"clsCliente.h"
+
+1698954287 d:\laboratorio 2\31.10\1.11\gestion-cine\clscliente.h
+
+1698850408 d:\laboratorio 2\31.10\1.11\gestion-cine\submenualimentos.h
+	"clsAlimentos.h"
+
+1698952740 d:\laboratorio 2\31.10\1.11\gestion-cine\clsalimentos.h
+	<iostream>
+	<cstring>
+	"funcionesGlobales.h"
+
+1698802734 d:\laboratorio 2\31.10\1.11\gestion-cine\submenuventas.h
+	"clsVentas.h"
+
+1698954441 d:\laboratorio 2\31.10\1.11\gestion-cine\clsventas.h
+	<iostream>
+	<cstring>
+	"funcionesGlobales.h"
+	"clsDetalleVentas.h"
+	"subMenuClientes.h"
+	"clsCliente.h"
+
+1698954425 d:\laboratorio 2\31.10\1.11\gestion-cine\clsdetalleventas.h
+
+1698947965 d:\laboratorio 2\31.10\1.11\gestion-cine\submenuconfiguracion.h
+
+1698928620 source:c:\users\dante luongo\downloads\gestion-cine\gestion-cine\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+
+1699529257 source:c:\users\dante luongo\downloads\gestion-cine\gestion-cine\menu.cpp
+	<iostream>
+	<ctime>
+	"rlutil.h"
+	"subMenuPeliculas.h"
+	"subMenuClientes.h"
+	"subMenuAlimentos.h"
+	"subMenuVentas.h"
+	"clsPeliculas.h"
+	"clsCliente.h"
+	"clsAlimentos.h"
+	"clsVentas.h"
+	"subMenuConfiguracion.h"
+	"Reportes.h"
+	"funcionesGlobales.h"
+
+1698850371 c:\users\dante luongo\downloads\gestion-cine\gestion-cine\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1700322912 c:\users\dante luongo\downloads\gestion-cine\gestion-cine\submenupeliculas.h
+	"clsPeliculas.h"
+
+1699560481 c:\users\dante luongo\downloads\gestion-cine\gestion-cine\clspeliculas.h
+	<iostream>
+	<cstring>
+	"funcionesGlobales.h"
+
+1699279052 c:\users\dante luongo\downloads\gestion-cine\gestion-cine\funcionesglobales.h
+	<ctime>
+
+1699536013 c:\users\dante luongo\downloads\gestion-cine\gestion-cine\submenuclientes.h
+	"clsCliente.h"
+
+1699538133 c:\users\dante luongo\downloads\gestion-cine\gestion-cine\clscliente.h
+
+1699541545 c:\users\dante luongo\downloads\gestion-cine\gestion-cine\submenualimentos.h
+	"clsAlimentos.h"
+
+1699541580 c:\users\dante luongo\downloads\gestion-cine\gestion-cine\clsalimentos.h
+	<iostream>
+	<cstring>
+	"funcionesGlobales.h"
+
+1699499497 c:\users\dante luongo\downloads\gestion-cine\gestion-cine\submenuventas.h
+	"clsVentas.h"
+	"Reportes.h"
+
+1699611054 c:\users\dante luongo\downloads\gestion-cine\gestion-cine\clsventas.h
+	<iostream>
+	<cstring>
+	"funcionesGlobales.h"
+	"clsDetalleVentas.h"
+	"subMenuClientes.h"
+	"clsCliente.h"
+
+1699594270 c:\users\dante luongo\downloads\gestion-cine\gestion-cine\clsdetalleventas.h
+
+1699540254 c:\users\dante luongo\downloads\gestion-cine\gestion-cine\submenuconfiguracion.h
+
+1699540254 c:\users\pc\desktop\gestion-cine\submenuconfiguracion.h
+
+1699501396 c:\users\pc\desktop\gestion-cine\reportes.h
+	"subMenuVentas.h"
+	"clsVentas.h"
+	"clsDetalleventas.h"
+
+1698928620 source:c:\users\dante luongo\downloads\gestion-cine (1)\gestion-cine\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+
+1699152654 source:c:\users\dante luongo\downloads\gestion-cine (1)\gestion-cine\menu.cpp
+	<iostream>
+	<ctime>
+	"rlutil.h"
+	"subMenuPeliculas.h"
+	"subMenuClientes.h"
+	"subMenuAlimentos.h"
+	"subMenuVentas.h"
+	"clsPeliculas.h"
+	"clsCliente.h"
+	"clsAlimentos.h"
+	"clsVentas.h"
+	"subMenuConfiguracion.h"
+	"Reportes.h"
+	"funcionesGlobales.h"
+
+1698850371 c:\users\dante luongo\downloads\gestion-cine (1)\gestion-cine\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1699152428 c:\users\dante luongo\downloads\gestion-cine (1)\gestion-cine\submenupeliculas.h
+	"clsPeliculas.h"
+
+1699155604 c:\users\dante luongo\downloads\gestion-cine (1)\gestion-cine\clspeliculas.h
+	<iostream>
+	<cstring>
+	"funcionesGlobales.h"
+
+1699279052 c:\users\dante luongo\downloads\gestion-cine (1)\gestion-cine\funcionesglobales.h
+	<ctime>
+
+1699151286 c:\users\dante luongo\downloads\gestion-cine (1)\gestion-cine\submenuclientes.h
+	"clsCliente.h"
+
+1699151927 c:\users\dante luongo\downloads\gestion-cine (1)\gestion-cine\clscliente.h
+
+1699151319 c:\users\dante luongo\downloads\gestion-cine (1)\gestion-cine\submenualimentos.h
+	"clsAlimentos.h"
+
+1699024397 c:\users\dante luongo\downloads\gestion-cine (1)\gestion-cine\clsalimentos.h
+	<iostream>
+	<cstring>
+	"funcionesGlobales.h"
+
+1699151319 c:\users\dante luongo\downloads\gestion-cine (1)\gestion-cine\submenuventas.h
+	"clsVentas.h"
+	"Reportes.h"
+
+1699156176 c:\users\dante luongo\downloads\gestion-cine (1)\gestion-cine\clsventas.h
+	<iostream>
+	<cstring>
+	"funcionesGlobales.h"
+	"clsDetalleVentas.h"
+	"subMenuClientes.h"
+	"clsCliente.h"
+
+1699155871 c:\users\dante luongo\downloads\gestion-cine (1)\gestion-cine\clsdetalleventas.h
+
+1699151375 c:\users\dante luongo\downloads\gestion-cine (1)\gestion-cine\submenuconfiguracion.h
+
+1699153926 c:\users\dante luongo\downloads\gestion-cine (1)\gestion-cine\reportes.h
+	"subMenuVentas.h"
+	"clsVentas.h"
+	"clsDetalleventas.h"
+
+1698928620 source:c:\users\dante luongo\desktop\utn\labo 2\gestion-cine\gestion-cine\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+
+1699499335 source:c:\users\dante luongo\desktop\utn\labo 2\gestion-cine\gestion-cine\menu.cpp
+	<iostream>
+	<ctime>
+	"rlutil.h"
+	"subMenuPeliculas.h"
+	"subMenuClientes.h"
+	"subMenuAlimentos.h"
+	"subMenuVentas.h"
+	"clsPeliculas.h"
+	"clsCliente.h"
+	"clsAlimentos.h"
+	"clsVentas.h"
+	"subMenuConfiguracion.h"
+	"Reportes.h"
+	"funcionesGlobales.h"
+
+1698850371 c:\users\dante luongo\desktop\utn\labo 2\gestion-cine\gestion-cine\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1699152428 c:\users\dante luongo\desktop\utn\labo 2\gestion-cine\gestion-cine\submenupeliculas.h
+	"clsPeliculas.h"
+
+1699500070 c:\users\dante luongo\desktop\utn\labo 2\gestion-cine\gestion-cine\clspeliculas.h
+	<iostream>
+	<cstring>
+	"funcionesGlobales.h"
+
+1699279052 c:\users\dante luongo\desktop\utn\labo 2\gestion-cine\gestion-cine\funcionesglobales.h
+	<ctime>
+
+1699151286 c:\users\dante luongo\desktop\utn\labo 2\gestion-cine\gestion-cine\submenuclientes.h
+	"clsCliente.h"
+
+1699500023 c:\users\dante luongo\desktop\utn\labo 2\gestion-cine\gestion-cine\clscliente.h
+
+1699151319 c:\users\dante luongo\desktop\utn\labo 2\gestion-cine\gestion-cine\submenualimentos.h
+	"clsAlimentos.h"
+
+1699500902 c:\users\dante luongo\desktop\utn\labo 2\gestion-cine\gestion-cine\clsalimentos.h
+	<iostream>
+	<cstring>
+	"funcionesGlobales.h"
+
+1699499497 c:\users\dante luongo\desktop\utn\labo 2\gestion-cine\gestion-cine\submenuventas.h
+	"clsVentas.h"
+	"Reportes.h"
+
+1699499088 c:\users\dante luongo\desktop\utn\labo 2\gestion-cine\gestion-cine\clsventas.h
+	<iostream>
+	<cstring>
+	"funcionesGlobales.h"
+	"clsDetalleVentas.h"
+	"subMenuClientes.h"
+	"clsCliente.h"
+
+1699499234 c:\users\dante luongo\desktop\utn\labo 2\gestion-cine\gestion-cine\clsdetalleventas.h
+
+1699501396 c:\users\dante luongo\desktop\utn\labo 2\gestion-cine\gestion-cine\reportes.h
+	"subMenuVentas.h"
+	"clsVentas.h"
+	"clsDetalleventas.h"
+
+1699151375 c:\users\dante luongo\desktop\utn\labo 2\gestion-cine\gestion-cine\submenuconfiguracion.h
+
+1699501396 c:\users\dante luongo\downloads\gestion-cine\gestion-cine\reportes.h
+	"subMenuVentas.h"
+	"clsVentas.h"
+	"clsDetalleventas.h"
+
